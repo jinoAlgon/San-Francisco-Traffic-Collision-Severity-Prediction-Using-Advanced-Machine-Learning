@@ -10,7 +10,7 @@ The dataset covers traffic collision records from 2005 to 2022 in San Francisco,
 We employed clustering (K-means, DBSCAN, Expectation-Maximization), outlier detection (Local Outlier Factor), and classification (Random Forest) models to analyze and predict injury severity.
 
 ## Results
-Updated Soon!
+Will Update Soon!
 <!-- Our models provide insights into the key factors contributing to collision severity, aiding in strategic planning for safer roads. -->
 
 ## Usage
