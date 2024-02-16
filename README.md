@@ -13,9 +13,9 @@ We employed clustering (K-means, DBSCAN, Expectation-Maximization), outlier dete
 Will Update Soon!
 <!-- Our models provide insights into the key factors contributing to collision severity, aiding in strategic planning for safer roads. -->
 
-## Usage
+<!-- ## Usage
 Instructions on how to set up the environment, install dependencies, and run the project are included.
 
 ## Acknowledgments
-Thanks to all contributors and organizations that supported this project.
+Thanks to all contributors and organizations that supported this project. -->
 
