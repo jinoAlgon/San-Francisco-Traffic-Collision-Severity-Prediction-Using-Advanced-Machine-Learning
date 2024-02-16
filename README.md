@@ -7,7 +7,7 @@ This project uses advanced machine learning techniques to predict traffic collis
 The dataset covers traffic collision records from 2005 to 2022 in San Francisco, providing a comprehensive view of the factors contributing to accident severity.
 
 ## Methodology
-We employed clustering (K-means, DBSCAN, Expectation-Maximization), outlier detection (Local Outlier Factor), and classification (Random Forest) models to analyze and predict injury severity.
+We employed clustering (K-means, DBSCAN, Expectation-Maximization), outlier detection (Local Outlier Factor), and classification (Random Forest, Decision Tree) models to analyze and predict injury severity.
 
 ## Results
 Will Update Soon!
