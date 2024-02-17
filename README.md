@@ -4,8 +4,7 @@
 This project aims to predict the severity of traffic collisions in San Francisco using machine learning techniques, with a focus on aiding the SFPD in reducing traffic accidents and fatalities. It leverages a comprehensive dataset spanning 17 years to identify the contributing factors to collision severity and suggests measures for improvement.
 
 ## Dataset
-[Dataset Link](https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury/ubvf-ztfx/about_data)
-The dataset encompasses traffic crash data from 2005 to 2022, obtained from multiple sources like the SFPD’s Interim Collision System and the Statewide Integrated Transportation Record System, covering various aspects of collisions, including environmental and vehicle factors.
+The [dataset](https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury/ubvf-ztfx/about_data) encompasses traffic crash data from 2005 to 2022, obtained from multiple sources like the SFPD’s Interim Collision System and the Statewide Integrated Transportation Record System, covering various aspects of collisions, including environmental and vehicle factors.
 
 ## Technologies
 - Python
